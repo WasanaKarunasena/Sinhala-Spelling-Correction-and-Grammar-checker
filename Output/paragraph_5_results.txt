@@ -1,0 +1,9 @@
+Paragraph 5:
+Original:
+ඔවුහු පාසලට යනවා. අපි යමු. පමාද වීම සුදුසු නොවේ.
+
+Spell and grammar Corrected:
+ඔවුහු පාසලට යති . අපි යමු .  ප්‍රමාද වීම සුදුසු නොවේ .
+
+Grammar Suggestions:
+- LABEL_0 (Confidence: 0.52)
