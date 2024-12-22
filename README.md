@@ -1,4 +1,5 @@
 Sinhala Text Spell and Grammar Checker
+
 This project implements a Sinhala language spell and grammar checker using pre-trained models and a dictionary-based approach for spell correction. It includes functionalities for correcting spelling mistakes, grammar errors in Sinhala text.
 
 Features
